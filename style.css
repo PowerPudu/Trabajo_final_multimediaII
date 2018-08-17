@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p|Unica+One');
+
+body { background: #E6E6E6;
+        font-family: 'M PLUS 1p', sans-serif;}
+
+h1 {color: #FFFFFF;
+        font-family: 'Unica One';}
+h2 {color: #FF8000;
+        font-family: 'Unica One', cursive;}
+h3 {color: #FFFFFF;
+        font-family: 'M PLUS 1p', sans-serif;
+        font-size: 15px;}
+
+a {color:#FF8000;}
+
+a[href$=".pdf"]
+{color: green;
+        }
+
+
+.pdf "target="_blank"
